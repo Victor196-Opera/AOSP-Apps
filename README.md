@@ -84,22 +84,12 @@ If you encounter any problems:
 ## Repository Structure
  
 ```
-email-calendar-patched/
+aosp-app/
 ├── README.md
 ├── LICENSE
 ├── apk/
 │   ├── Calendar_patched.apk
 │   └── Email_patched.apk
-└── patches/
-    ├── Calendar/
-    │   └── TimezoneAdapter.smali.patch
-    └── Email/
-        ├── AccountSetupFinal$OwnerNameLoaderCallbacks.smali
-        ├── SenderInfoLoader.smali
-        ├── ContactResolver$ContactResolverTask.smali
-        ├── SuggestionsProvider$ContactsCursor.smali
-        ├── SuggestionsProvider.smali
-        └── MaterialSearchSuggestionsList$QuerySuggestionsTask.smali
 ```
 
 ## Instructions for Manual Patching
