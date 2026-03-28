@@ -41,7 +41,7 @@ Fixed all SecurityException crashes related to ContactsProvider access:
 ## Installation
 
 ### Method 1: Install as Normal App
-1. Download APK from [Releases](https://github.com/Victor196-Opera/AOSP-Apps/releases/download/v1.0.6-20250328/)
+1. Download APK from [Releases](https://github.com/Victor196-Opera/AOSP-Apps/releases)
 2. Uninstall original app if exists
 3. Install the patched APK
 
