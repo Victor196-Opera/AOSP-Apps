@@ -81,17 +81,6 @@ If you encounter any problems:
 2. Logcat output if available
 3. Steps to reproduce the issue
 
-## Repository Structure
- 
-```
-aosp-app/
-├── README.md
-├── LICENSE
-├── apk/
-│   ├── Calendar_patched.apk
-│   └── Email_patched.apk
-```
-
 ## Instructions for Manual Patching
 
 If you want to patch the APK yourself:
